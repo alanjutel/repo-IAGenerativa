@@ -13,3 +13,6 @@ __pycache__/
 
 # Logs
 *.log
+projeto02/__pycache__/classifier.cpython-312.pyc
+projeto02/__pycache__/llm_client.cpython-312.pyc
+projeto02/__pycache__/validator.cpython-312.pyc
